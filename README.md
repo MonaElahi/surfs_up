@@ -49,10 +49,15 @@ From above data statistics following key differences have been derived.
 
 # Summary
 
-
+For surf and ice cream shop it is very important to determine weather situation in the 
+particular location. With the help of above analysis, weather aspects are uniformly 
+changes in summer and winter. Which is a green signal for the new business venture. 
 
 
 ## Additonal Queries and Data Frames 
+
+Below are additionals queries and statistical Data Frames performed to determine the percipitation aspect for 
+months of June and december, at the most desirable location for business prospects.
 
 ### June Percipitation analysis:
 
