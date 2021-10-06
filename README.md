@@ -11,9 +11,9 @@ business is sustainable year-round.
 
 # Results
 
-Within the scope of the analysis. Temperature statistics have been for the month of June and December.
-It helped to determine that _Surf and Ice Cream_ business is promising to open. Below are the tables 
-with used for analysis. 
+Within the scope of the analysis. Temperature statistics taken for the month of June and December,
+helped to determine that _Surf and Ice Cream_ business is promising to open. Below are the tables 
+used for analysis. 
 
 
 ## June Temperatures
@@ -29,18 +29,23 @@ with used for analysis.
 ### Key differences in weather between June and December.
 
 June is obviouly considered as the hotter month compared to december. 
-It is required to see if temperatures have major difference then activity will be
-more in summers than in winters.
+It is required to see if temperatures have major difference 
+which will result in more activity summers rather than in winter time.
 
 From above data statistics following key differences have been derived. 
 
 
-- Number of count (June 1700) (December 1517) are sufficent enough in order to 
-  do analyzation with accuracy. 
-- There has not been seen any remarkable difference between the data for June and December.
-- 
-- Mean (June 74.94 and December 71) for both the month dont have a much of difference  
-- Maximum temperatures (June 85, December 83) are preferable for both surfing and ice cream.
+- Number of count (June 1700 , December 1517) are sufficent enough in order to 
+  do analyzation with accuracy. However there are 183 less records in december, 
+  which is more reliable than for the month of June.
+  
+- Mean for months is (June 74.94 , December 71) have a difference of 3.9. which would not make
+  a great difference. 
+  
+- Minimum temperatures (June 64, December 56) for the months have 8 degrees difference. which 
+  is obviously cooler for winters.
+  
+  
 
 # Summary
 
