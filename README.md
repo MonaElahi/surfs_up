@@ -11,6 +11,11 @@ business is sustainable year-round.
 
 # Results
 
+Within the scope of the analysis. Temperature statistics have been for the month of June and December.
+It helped to determine that _Surf and Ice Cream_ business is promising to open. Below are the tables 
+with used for analysis. 
+
+
 ## June Temperatures
 
 ![git-hub](https://github.com/MonaElahi/surfs_up/blob/6d47f8c3669da0ed55c640da3afb51f04a742961/Jun%20stats.PNG)
@@ -23,7 +28,11 @@ business is sustainable year-round.
 
 ### Key differences in weather between June and December.
 
--
+From above data statistics following key differences have been derived. 
+
+
+- 
+
 -
 -
 
