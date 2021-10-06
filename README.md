@@ -45,9 +45,18 @@ From above data statistics following key differences have been derived.
 # Summary
 
 
+## Additonal Queries and Data Frames 
+
+### June Percipitation analysis:
+
+![git-hub](https://github.com/MonaElahi/surfs_up/blob/557bc93f17086c614792d8a78345442c403a588d/Resources/June%20additional%20Query.PNG)
+![git-hub](https://github.com/MonaElahi/surfs_up/blob/557bc93f17086c614792d8a78345442c403a588d/Resources/June%20Additional%20query%20stats.PNG)
 
 
+### December Percipitation analysis:
 
+![git-hub](https://github.com/MonaElahi/surfs_up/blob/557bc93f17086c614792d8a78345442c403a588d/Resources/December%20additional%20query.PNG)
+![git-hub](https://github.com/MonaElahi/surfs_up/blob/557bc93f17086c614792d8a78345442c403a588d/Resources/December%20additional%20query%20stats.PNG)
 
 
 
