@@ -50,6 +50,8 @@ From above data statistics following key differences have been derived.
 # Summary
 
 
+
+
 ## Additonal Queries and Data Frames 
 
 ### June Percipitation analysis:
