@@ -28,12 +28,29 @@ with used for analysis.
 
 ### Key differences in weather between June and December.
 
+June is obviouly considered as the hotter month compared to december. 
+It is required to see if temperatures have major difference then activity will be
+more in summers than in winters.
+
 From above data statistics following key differences have been derived. 
 
 
+- Number of count (June 1700) (December 1517) are sufficent enough in order to 
+  do analyzation with accuracy. 
+- There has not been seen any remarkable difference between the data for June and December.
 - 
-
--
--
+- Mean (June 74.94 and December 71) for both the month dont have a much of difference  
+- Maximum temperatures (June 85, December 83) are preferable for both surfing and ice cream.
 
 # Summary
+
+
+
+
+
+
+
+
+
+
+
