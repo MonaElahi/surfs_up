@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs Up
 
 ![git-hub](https://github.com/MonaElahi/surfs_up/blob/918a4ea9fab008116999e52befb43015ac4d768d/Surfing_image.webp)
 
@@ -28,18 +28,18 @@ used for analysis.
 
 ### Key differences in weather between June and December.
 
-June is obviouly considered as the hotter month compared to december. 
+June is obviously considered as the hotter month compared to December. 
 It is required to see if temperatures have major difference 
-which will result in more activity summers rather than in winter time.
+which will result in more activity summers rather than in wintertime.
 
 From above data statistics following key differences have been derived. 
 
 
-- Number of count (June 1700 , December 1517) are sufficent enough in order to 
-  do analyzation with accuracy. However there are 183 less records in december, 
+- Number of count (June 1700, December 1517) are sufficient enough in order to 
+  do analyzation with accuracy. However, there are 183 less records in December, 
   which is more reliable than for the month of June.
   
-- Mean for months is (June 74.94 , December 71) have a difference of 3.9. which would not make
+- Mean for months is (June 74.94, December 71) have a difference of 3.9. which would not make
   a great difference. 
   
 - Minimum temperatures (June 64, December 56) for the months have 8 degrees difference. which 
@@ -49,23 +49,23 @@ From above data statistics following key differences have been derived.
 
 # Summary
 
-For surf and ice cream shop it is very important to determine weather situation at the 
-particular location. With the help of above analysis, weather aspects are uniformly 
-changes in summer and winter. Which is a green signal for the new business venture. 
+For surf and ice cream shop it is very important to determine whether situation at the 
+location. With the help of above analysis, weather aspects are uniformly 
+changed in summer and winter. Which is a green signal for the new business venture. 
 
 
-## Additonal Queries and Data Frames 
+## Additional Queries and Data Frames 
 
-Below are additionals queries and statistical Data Frames performed to determine the percipitation aspect for 
-months of June and december, at the most desirable location for business prospects.
+Below are additional queries and statistical Data Frames performed to determine the precipitation aspect for 
+months of June and December, for the most desirable location consideration for business prospects.
 
-### June Percipitation analysis:
+### June Precipitation analysis:
 
 ![git-hub](https://github.com/MonaElahi/surfs_up/blob/557bc93f17086c614792d8a78345442c403a588d/Resources/June%20additional%20Query.PNG)
 ![git-hub](https://github.com/MonaElahi/surfs_up/blob/557bc93f17086c614792d8a78345442c403a588d/Resources/June%20Additional%20query%20stats.PNG)
 
 
-### December Percipitation analysis:
+### December Precipitation analysis:
 
 ![git-hub](https://github.com/MonaElahi/surfs_up/blob/557bc93f17086c614792d8a78345442c403a588d/Resources/December%20additional%20query.PNG)
 ![git-hub](https://github.com/MonaElahi/surfs_up/blob/557bc93f17086c614792d8a78345442c403a588d/Resources/December%20additional%20query%20stats.PNG)
